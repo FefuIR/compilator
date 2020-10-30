@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/admin/Desktop/lexical_analyzer/lexical_analyzer.cpp
+lexical_analyzer.h
+C:/Users/admin/Desktop/lexical_analyzer/lexical_analyzer.h
+
+C:/Users/admin/Desktop/lexical_analyzer/lexical_analyzer.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+algorithm
+-
+
+C:/Users/admin/Desktop/lexical_analyzer/main.cpp
+iostream
+-
+lexical_analyzer.h
+C:/Users/admin/Desktop/lexical_analyzer/lexical_analyzer.h
+
